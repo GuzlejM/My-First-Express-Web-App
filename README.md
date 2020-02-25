@@ -1,6 +1,7 @@
 # My-First-Express-Web-App
 Moderately difficult basic Express excercise
 
+NOTE!↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 
 #Express Routing Assignment
 
@@ -19,4 +20,6 @@ Visiting "/repeat/5" should print "hello hello hello hello hello"<br>
 Visiting "/repeat/2" should print "blah blah"<br>
 __________________________________________________________________
 If a user visits any other route, print:
-"Sorry, page not found...What are you doing with your life?"
+"Sorry, page not found...What are you doing with your life?"<br>
+
+NOTE ! Definitely need to rewatch 271. Express Basic Excercise: Solution.
