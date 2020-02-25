@@ -14,9 +14,9 @@ Visiting "/speak/pig should print "The pig says 'Oink'"<br>
 Visiting "/speak/cow should print "The cow says 'Moo'"<br>
 Visiting "/speak/dog should print "The dog says 'Woof Woof'"<br>
 __________________________________________________________________
-Visiting "/repeat/3" should print "hello hello hello"
-Visiting "/repeat/5" should print "hello hello hello hello hello"
-Visiting "/repeat/2" should print "blah blah"
+Visiting "/repeat/3" should print "hello hello hello"<br>
+Visiting "/repeat/5" should print "hello hello hello hello hello"<br>
+Visiting "/repeat/2" should print "blah blah"<br>
 __________________________________________________________________
 If a user visits any other route, print:
 "Sorry, page not found...What are you doing with your life?"
