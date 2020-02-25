@@ -10,9 +10,9 @@ Moderately difficult basic Express excercise
 
 Visiting "/" should print "hi there, welcome to my assignment!"
 __________________________________________________________________
-Visiting "/speak/pig should print "The pig says 'Oink'"
-Visiting "/speak/cow should print "The cow says 'Moo'"
-Visiting "/speak/dog should print "The dog says 'Woof Woof'"
+Visiting "/speak/pig should print "The pig says 'Oink'"<br>
+Visiting "/speak/cow should print "The cow says 'Moo'"<br>
+Visiting "/speak/dog should print "The dog says 'Woof Woof'"<br>
 __________________________________________________________________
 Visiting "/repeat/3" should print "hello hello hello"
 Visiting "/repeat/5" should print "hello hello hello hello hello"
