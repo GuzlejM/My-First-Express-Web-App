@@ -7,7 +7,7 @@ app.get("/", function(req, res) {
 });
 
 app.get("/:arena", function(req, res) {
-    res.send("Welcome to Arena, mfker!");
+    res.send("Welcome to Arena!");
 });
 
 app.get("/", function(req, res) {
