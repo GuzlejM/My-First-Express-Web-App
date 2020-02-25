@@ -8,7 +8,7 @@ Moderately difficult basic Express excercise
 2. Create a package.json using `npm inut` and add express as a dependency
 3. In your main app.js file, add 3 diferent routes:
 
-Visiting "/" should print "hi there, welcome to my assignment!"
+Visiting "/" should print "Hi there, welcome to my assignment!"
 __________________________________________________________________
 Visiting "/speak/pig should print "The pig says 'Oink'"<br>
 Visiting "/speak/cow should print "The cow says 'Moo'"<br>
